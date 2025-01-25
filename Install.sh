@@ -1,7 +1,7 @@
 #New Build Script
 #v0.1 TeknikL
 #!/bin/sh
-#git clone https://github.com/pyrater/TARS-AI.git
+#git clone https://github.com/innovomfg/TARS-AI.git
 #cd TARS-AI/src
 cd src
 sudo apt update
